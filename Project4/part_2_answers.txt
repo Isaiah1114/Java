@@ -1,0 +1,13 @@
+
+Explain why some Java classes are abstract. Give an example of how you might use an abstract class.
+
+Some class are abstract so that they can not be instantiated during runtime. You might use an abstract class if you want to set some basic
+parameter for an object that subclass need to include... but those parameters on the abstract class by themselves aren't neccessarily useful. 
+
+
+
+
+Explain what a Java interface is. Give an example of how you might use an interface.
+
+A java interface is an abstracty type that contains a collection of variables or methods. You might use an interface to instantiate
+an object with some given parameters.
